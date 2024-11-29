@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/intenomenu.unity
+    guid: ea3190067e55f6a41adafcbef78c7def
+  - enabled: 1
+    path: Assets/Scenes/integradora.unity
+    guid: 6cfb61817b9e23b439f98e32d170e350
+  - enabled: 1
+    path: Assets/Scenes/cerrar.unity
+    guid: c57ee20d07988484c8f36609f3168ac7
+  - enabled: 1
+    path: Assets/Scenes/VictoriaEscape.unity
+    guid: 9a35f95ac72cb5544b97a997c26dec2a
   m_configObjects: {}

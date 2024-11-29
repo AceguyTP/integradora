@@ -23,7 +23,7 @@ public class ActivadorNota : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.E) && activa == true)
             {
                 notaVisual.SetActive(true);
-                pickUpText.SetActive(false ); 
+                pickUpText.SetActive(false); 
             }
         }
         if (Input.GetKeyDown(KeyCode.Escape) && activa == true)
